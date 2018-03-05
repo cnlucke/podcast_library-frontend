@@ -1,0 +1,22 @@
+#outerDiv{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#list-panel {
+	margin-top:40px
+}
+
+ul li:nth-child(odd) {
+	background-color: #f8f8f8;
+}
+
+a#new-podcast {
+	padding-left:50px;
+}
+
+form {
+		padding-left:40px;
+    text-align: left;
+}
